@@ -5,7 +5,7 @@
 
 Implementation of [Regev’s Algorithm](https://arxiv.org/abs/2308.06572) for prime factorization and discrete logarithms. This project focuses on the quantum circuit for resource estimation purposes.
 
-This repository contains some key primitives of Regev's Algorithm, implem:
+This repository contains some key primitives of Regev's Algorithm:
 -  Gaussian state preperation
     - [gaussian.qs](gaussian.qs): Simplest implementation that calls Q# library `PreparePureStateD()`
     - [gaussian_mot.qs](gaussian_mot.qs): Arbitrary state preparation by [Möttönen et al.](https://arxiv.org/abs/quant-ph/0407010)
