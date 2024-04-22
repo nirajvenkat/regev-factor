@@ -1,9 +1,9 @@
 # Resource Estimation of Regev’s Algorithm
-*Submission for QRISE 2024 - Microsoft Challenge*
+*Winning submission for QRISE 2024 - Microsoft Challenge*
 
 [Video Description](https://youtu.be/o7NXxKnswUo)
 
-Implementation of [Regev’s Algorithm](https://arxiv.org/abs/2308.06572) for prime factorization and discrete logarithms. This project focuses on the quantum circuit for resource estimation purposes.
+Implementation of [Regev’s algorithm](https://arxiv.org/abs/2308.06572) for prime factorization and discrete logarithms. This project focuses on the quantum circuit for resource estimation purposes.
 
 This repository contains some key primitives of Regev's Algorithm:
 -  Gaussian state preperation
