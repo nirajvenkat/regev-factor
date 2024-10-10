@@ -1,5 +1,5 @@
 # Resource Estimation of Regev’s Algorithm
-*Winning submission for [QRISE 2024 - Microsoft Challenge](quantumcoalition.io/challenges)*
+*Winning submission for [QRISE 2024 - Microsoft Challenge](https://devblogs.microsoft.com/qsharp/resource-estimation-challenge-at-qrise-2024-recap/)*
 
 [Video Description](https://youtu.be/o7NXxKnswUo)
 
